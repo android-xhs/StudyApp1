@@ -4,6 +4,6 @@ import com.xhs.mylibrary2.BaseActivity
 
 class TestActivity: BaseActivity() {
     override fun initView() {
-        TODO("Not yet implemented")
+        println("为变基而生")
     }
 }
