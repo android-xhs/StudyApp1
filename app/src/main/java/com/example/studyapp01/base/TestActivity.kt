@@ -4,6 +4,6 @@ import com.xhs.mylibrary2.BaseActivity
 
 class TestActivity: BaseActivity() {
     override fun initView() {
-        println("为变基而生")
+        println("为变基而生——main分支")
     }
 }
