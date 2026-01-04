@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudyApp01</string>
+    <string name="show_pop">sideBar弹窗</string>
+    <string name="home_frag">HomeFragment</string>
+    <string name="anim_control">动画控制</string>
+    <string name="frag_mine">MineFragment</string>
+    <string name="frag_notice">NoticeFragment</string>
+    <string name="night_switch">模式切换</string>
+    <string name="setting">设置</string>
+    <string name="about_us">关于我们</string>
+</resources>
